@@ -1,5 +1,6 @@
 # Machine-Learning-Projects:
-## 1. Holiday Package Purchase Prediction
+____________________________
+# 1. Holiday Package Purchase Prediction
 
 ## Project Overview
 
@@ -28,10 +29,10 @@ The data was loaded and cleaned, handling missing values and correcting inconsis
 The ROC AUC curve for the Random Forest Classifier is included as `auc.png`, demonstrating the model's performance.
 
 <img width="640" height="480" alt="auc" src="https://github.com/user-attachments/assets/6baeb31d-3fd5-4fef-8ab7-40488f199242" />
-#_____________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________
 
 
-## 2. Used Car Price Prediction
+# 2. Used Car Price Prediction
 
 ## Project Overview
 
@@ -68,7 +69,7 @@ This indicates that the model can explain 94% of the variance in the car prices 
 ## Conclusion
 
 The Random Forest Regressor model provides a robust and accurate solution for predicting used car prices. Its high R2 score and low error metrics make it a reliable tool for estimating the market value of a vehicle based on its features. This model can be effectively used to assist sellers in setting competitive prices and to help buyers make informed decisions.
-#_____________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________
 
 
 
