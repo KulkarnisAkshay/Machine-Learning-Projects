@@ -27,6 +27,7 @@ The data was loaded and cleaned, handling missing values and correcting inconsis
 
 The ROC AUC curve for the Random Forest Classifier is included as `auc.png`, demonstrating the model's performance.
 
-![ROC AUC Curve](auc.png)
+<img width="640" height="480" alt="auc" src="https://github.com/user-attachments/assets/6baeb31d-3fd5-4fef-8ab7-40488f199242" />
+
 
 
